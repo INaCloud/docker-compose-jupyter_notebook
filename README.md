@@ -26,7 +26,7 @@ Prerequisite: a working Docker setup
 
 ## Options
 * Add any Python packages that you need to `requirements.txt` and re-run `docker-compose build`
-* For a list of readily available official Docker images and much more see [Common FEatures - docker-stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html).
+* For a list of readily available official Docker images and much more see [Common Features - docker-stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html).
 
 
 ## Acknowledgments
