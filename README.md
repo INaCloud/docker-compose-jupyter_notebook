@@ -18,14 +18,15 @@ Prerequisite: a working Docker setup
 1. Access your local repository folder via command line
 2. Run `docker-compose up`
 3. Copy the token that is shown to you
-4. Access the Jupyter environment in your browser via `https://127.0.0.1:8888`
+4. Access the Jupyter environment in your browser via `http://127.0.0.1:8888`
 5. Paste the token
 6. Access the folder `work` in the Jupyter environment in your browser, this location is now identical to the location `./notebooks` in your local file system
 7. Use Jupyter
 
 
 ## Options
-For a list of readily available official Docker images and much more see [Common FEatures - docker-stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html).
+* Add any Python packages that you need to `requirements.txt` and re-run `docker-compose build`
+* For a list of readily available official Docker images and much more see [Common FEatures - docker-stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html).
 
 
 ## Acknowledgments
