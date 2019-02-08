@@ -24,3 +24,17 @@ Prerequisite: a working Docker setup
 7. Use Jupyter
 
 
+## Options
+For a list of readily available official Docker images and much more see [Common FEatures - docker-stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html).
+
+
+## Acknowledgments
+
+Special thanks to everyone who allowed me to steal their stuff:
+
+* rosejcday on writing the Docker compose config: https://dev.to/rosejcday/using-docker-compose-for-python-and-jupyter-4nbd
+* rosejcday on writing the Dockerfile: https://dev.to/rosejcday/python-and-jupyter-notebooks-23h5
+* jakevdp on why installing Python packages for Jupyter might be a mess: https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+
+
+
